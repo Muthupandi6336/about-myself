@@ -6,5 +6,15 @@
   <img src="https://img.shields.io/badge/Penetration-Testing-00ff00?style=for-the-badge&logo=hackaday&logoColor=black" />
   <img src="https://img.shields.io/badge/Lifelong-Learner-00ff00?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+## 🟢 About Me
+## 🟢 Skills
+## 🟢 Tools
+## 🟢 Projects
+## 🟢 CTFs & Labs
+```bash
+┌──(student㉿pentester)-[~]
+└─$ whoami
+Cybersecurity Student | Penetration Testing Enthusiast
+
 
 
