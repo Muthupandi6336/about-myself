@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=🎓+Cybersecurity+Student;🔐+Penetration+Testing+Enthusiast;🧠+Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=🎓+Cybersecurity+Student;🔐+Penetration+Testing+Enthusiast;🧠+Threat+Intelligence" />
 </p>
 
 <p align="center">
@@ -40,21 +40,17 @@ Linux & Windows Privilege Escalation
 
 🧰 Tools
 
-
-
-
-
-
-
-
-
+* Nmap
+* Netcat
+* Hydra
+* DDos
+* subfinder
+* nuclei
 
 💻 Programming & Scripting
 
-
-
-
-
+* Python Prompt Scripting
+* Bash prompt Scripting
 
 🟢 [ PROJECTS ]
 
@@ -73,12 +69,6 @@ Linux & Windows Privilege Escalation
 🟢 [ CTFs & LABS ]
 
 Hack The Box
-
-TryHackMe
-
-OverTheWire
-
-PicoCTF
 
 🧠 Write-ups are created for educational purposes only and follow platform rules.
 
