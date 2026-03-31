@@ -4,8 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Student-00FF00?style=for-the-badge&logo=security&logoColor=black" />
-  <img src="https://img.shields.io/badge/Penetration-Testing-00FF00?style=for-the-badge&logo=hackaday&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ethical-Hacker-00FF00?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Networking-00FF00?style=for-the-badge&logo=hackaday&logoColor=black" />
+  <img src="https://img.shields.io/badge/Compliance-00FF00?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
