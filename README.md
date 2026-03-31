@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=🎓+Cybersecurity+Student;🔐+Penetration+Testing+Enthusiast;🧠+Threat+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=700&lines=🎓+Cybersecurity+Student;🔐+Networking+Enthusiast;🧠+Threat+Intelligence" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 Cybersecurity Student | Penetration Testing Enthusiast
 🟢 [ ABOUT ME ]
 
-I am a Cybersecurity student with a strong passion for penetration testing and offensive security.
+I am a Cybersecurity student with a strong passion for Networking and compliance.
 I enjoy analyzing systems, discovering vulnerabilities, and understanding how attacks work in real-world environments.
 
 🔍 Interested in real-world attack techniques
@@ -26,11 +26,11 @@ I enjoy analyzing systems, discovering vulnerabilities, and understanding how at
 🛠 Focused on ethical, legal security testing
 
 🟢 [ SKILLS & TOOLS ]
-🔐 Penetration Testing
+🔐 
 
-Reconnaissance & Enumeration
+Network packet analyser
 
-Web Application Security Testing
+Network troubleshooter
 
 Vulnerability Assessment
 
@@ -49,8 +49,8 @@ Linux & Windows Privilege Escalation
 
 💻 Programming & Scripting
 
-* Python Prompt Scripting
-* Bash prompt Scripting
+* Python Prompt Scripting with (AI)
+* Bash prompt Scripting with (AI)
 
 🟢 [ PROJECTS ]
 
@@ -60,11 +60,8 @@ Linux & Windows Privilege Escalation
 
 🧪 Vulnerable machine walkthroughs
 
-🕸 Web application security testing
-
 🛡 Security automation & tooling
 
-➡️ Each repository includes documentation and results.
 
 🟢 [ CTFs & LABS ]
 
@@ -74,17 +71,12 @@ Hack The Box
 
 🟢 [ LEARNING & GOALS ]
 
-Studying Cybersecurity / Information Security
+Studying Cybersecurity / Networking and compliance
 
 Continuous learning in offensive security
 
 Preparing for future certifications:
 
-eJPT
-
-PNPT
-
-OSCP
 
 🟢 [ DISCLAIMER ]
 
@@ -93,8 +85,8 @@ I do not support or participate in illegal hacking.
 
 🟢 [ CONTACT ]
 
-💼 LinkedIn: <your-link>
+💼 LinkedIn: <https://www.linkedin.com/in/muthupandiank26/>
 
-📧 Email: <your-email>
+📧 Email: <muthunarzon55@gmail.com>
 
-🧠 Blog / Write-ups: <your-link>
+📧 Mobile no: 9080504050
